@@ -109,3 +109,21 @@ button:hover {
     color: #bd081c ;
     border-radius: 5px;
   }
+  .calculator{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .Todo{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  .img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }

@@ -6,12 +6,12 @@ function Projects() {
       <h2>Projects</h2>
       <div className="project">
         <h3>Calculator App</h3>
-        <a href="https://calculator-tau-jade-40.vercel.app/">Calculator App</a>
+        <a className="calculator" href="https://calculator-tau-jade-40.vercel.app/">Calculator App</a>
         <p>A simple calculator built with React.</p>
       </div>
       <div className="project">
         <h3>Portfolio Website</h3>
-        <a href="https://yousaf-app-project.vercel.app/">Todo App</a>
+        <a  className="Todo" href="https://yousaf-app-project.vercel.app/"> Todo App</a>
         <p>This portfolio website built using React and CSS.</p>
       </div>
     </section>
